@@ -1,0 +1,39 @@
+
+
+body {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    background-color: black;
+}
+
+.title {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
+table {
+    font-family: 'Amatic SC', cursive;
+    font-size: larger;
+}
+
+li {
+    list-style: none;
+    font-size: 30px;
+        display: inline-block;
+        margin: 0 10px;
+      }
+      
+
+p{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+th {
+    font-weight: bold;
+}
